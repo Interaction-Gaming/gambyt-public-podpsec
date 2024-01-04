@@ -33,5 +33,11 @@ TODO: Add long description of the pod here.
   s.user_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'YES' }
   s.vendored_frameworks = "MobilePlayslips.xcframework"
   
+   s.frameworks = 'UIKit'
+   s.dependency 'ReSwift', '~> 5.0.0'
+   s.dependency 'lottie-ios', '~> 3.1.9'
+   s.dependency 'UIColor_Hex_Swift','~> 5.1.0'
+   s.dependency 'DropDown', '~> 2.3.13'
+  
 end
 
