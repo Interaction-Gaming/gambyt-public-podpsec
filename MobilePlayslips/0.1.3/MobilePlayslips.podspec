@@ -27,7 +27,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'ignkarman' => 'noelle.karman@gambyt.com' }
   s.source           = { :git => 'https://github.com/Interaction-Gaming/ios-mobile-playslips-public.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '13'
+  s.ios.deployment_target = '14'
   s.swift_version    = '5.7.1'
   s.pod_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'YES' }
   s.user_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'YES' }
