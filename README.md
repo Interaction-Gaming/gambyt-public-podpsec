@@ -1,0 +1,1 @@
+#Gambyt Public Podspec
