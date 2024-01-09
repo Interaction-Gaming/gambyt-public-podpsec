@@ -37,6 +37,5 @@ TODO: Add long description of the pod here.
   s.dependency 'ReSwift', '~> 5.0.0'
   s.dependency 'lottie-ios', '~> 3.1.9'
   s.dependency 'UIColor_Hex_Swift','~> 5.1.0'
-  s.dependency 'DropDown', '~> 2.3.13'
 end
 
